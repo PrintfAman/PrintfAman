@@ -12,11 +12,21 @@
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,express,mysql,mongodb,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,express,mysql,git,github,vercel,netlify" />
 </p>
 
 <p align="center">
-  <b>React</b> • <b>Tailwind CSS</b> • <b>Node.js</b> • <b>Express.js</b> • <b>MySQL</b> • <b>MongoDB</b> • <b>Git & GitHub</b> • <b>Vercel / Netlify / Render</b>
+  <b>React</b> • <b>Tailwind CSS</b> • <b>Node.js</b> • <b>Express.js</b> • <b>MySQL</b> • <b>Git & GitHub</b> • <b>Vercel / Netlify / Render</b>
+</p>
+
+---
+
+## 🎬 Video Editing Skills  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pr,ae" height="50" />  
+  <br/>
+  <b>Adobe Premiere Pro</b> • <b>CapCut</b>
 </p>
 
 ---
@@ -28,28 +38,10 @@ I enjoy turning **ideas into real, working products** that deliver seamless expe
 
 ---
 
-## 💼 Experience  
-
-**Freelancer** (2022 – Present)  
-- Built a fully functional website for a health clinic startup  
-- Developed an online game selling platform for startups  
-- Built **Route Waves**, a full-stack website for live bus tracking  
-- Created an **AI car setup recommender** and a **pitstop challenge game**
-
----
-
 ## 🎓 Education  
 
 **Chitkara University**  
 Bachelor’s of Computer Applications  
-
----
-
-## 🏆 Certifications  
-
-- Top 5 at **National Level Hackathon**  
-- Completed **Udemy Full Stack Developer Course**  
-- Finalist at hackathon hosted by **Google Developers Group**
 
 ---
 
