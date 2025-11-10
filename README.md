@@ -1,47 +1,54 @@
-# 👋 Hey there! I'm **Aman** 🚀  
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Aman</span> 🚀</h1>
 
-💻 **Full Stack Developer** | 🎬 **Freelancer & Video Editor**  
-Passionate about crafting **interactive**, **user-focused** web apps with sleek UI and strong performance.  
-I love turning **ideas into reality** through design, creativity, and clean code.
-
----
-
-## ⚙️ Tech Stack  
-
-<div align="center">
-
-### 💻 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
-
-### 🧠 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗃️ Database  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-
-### 🧰 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-
-</div>
+<p align="center">
+  💻 <b>Full Stack Developer</b> | 🎬 <b>Freelancer & Video Editor</b> <br/>
+  I build <b>interactive, fast</b> & <b>user-focused</b> web apps with clean design and performance in mind.  
+  <br/>
+  <i>"Turning ideas into reality through design and code."</i>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+### ⚙️ Tech Stack  
 
-📧 **Email:** [amankhanna4040@gmail.com](mailto:amankhanna4040@gmail.com)  
-💼 **LinkedIn:** [Amanpreet Singh Khanna](https://www.linkedin.com/in/amanpreet-singh-khanna-ab9831295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9cCRcqq5TR65YRvQaI5Nrw%3D%3D)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" /><br/>
+  <b>Frontend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
+  <b>Backend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" /><br/>
+  <b>Database</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" /><br/>
+  <b>Tools & Platforms</b>
+</p>
 
 ---
 
-## ✨ About Me  
+### 🌐 Connect With Me  
 
-- 🔭 Currently working on **full-stack web projects**  
-- 🌱 Learning **TypeScript** and **Next.js** deeply  
-- 🎨 Editing videos in **CapCut** & **Premiere Pro** for clients  
-- ⚡ Fun fact: I love combining **tech + creativity** in everything I do!
+<p align="center">
+  📧 <a href="mailto:amankhanna4040@gmail.com"><b>amankhanna4040@gmail.com</b></a> <br/>
+  💼 <a href="https://www.linkedin.com/in/amanpreet-singh-khanna-ab9831295"><b>LinkedIn</b></a>
+</p>
 
 ---
 
-⭐ *"Building cool stuff with clean code and creative design."*  
-🧠 *Let’s connect and collaborate!*
+### ✨ About Me  
 
+- 🔭 Working on **Full Stack Projects**
+- 🌱 Currently exploring **TypeScript** & **Next.js**
+- 🎨 Editing videos in **Premiere Pro** & **CapCut**
+- ⚡ Fun fact: I mix **tech + creativity** to craft experiences
+
+---
+
+<h3 align="center">⭐ Building cool stuff with clean code and creative design ⭐</h3>
